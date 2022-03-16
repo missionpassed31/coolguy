@@ -1,8 +1,7 @@
-# coolguy
-[1] Write a menu-driven python program to implement stack operation.
+Question
 
-<img alt="Intents" src="https://media.discordapp.net/attachments/893208060670144573/953673947948396544/unknown.png">
-<img alt="Intents" src="https://media.discordapp.net/attachments/893208060670144573/953674750062919780/unknown.png">
+<img alt="Intents" src="https://media.discordapp.net/attachments/893208060670144573/953679261414346752/unknown.png?">
+<img alt="Intents" src="https://media.discordapp.net/attachments/769129851134541824/953678709032906833/unknown.png?">
 
 [2] Write a program to implement a stack for the employee details (empno, name)
 
