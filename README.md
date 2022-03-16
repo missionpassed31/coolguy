@@ -7,7 +7,7 @@ Question 1
 Ans:
 
 
-<img alt="Intents" src="https://media.discordapp.net/attachments/769129851134541824/953678709032906833/unknown.png?">
+<img alt="Intents" src="https://media.discordapp.net/attachments/893208060670144573/953730097268031528/unknown.png">
 
 
 
